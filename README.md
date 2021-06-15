@@ -1,7 +1,7 @@
 # Introduction to ReactJS application development
 
 This repo is a compilation of different basic concepts comprising ReactJS
-Please follow this link (https://www.taniarascia.com/getting-started-with-react/) for guide these concepts
+Please follow this [https://www.taniarascia.com/getting-started-with-react/] (https://www.taniarascia.com/getting-started-with-react/) for guide these concepts
 
 # Getting Started with Create React App
 
